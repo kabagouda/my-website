@@ -9,15 +9,15 @@ const config = {
   title: "Kab Learning Doc",
   tagline: "Mini Flutter Documentation",
   url: "https://github.com",
-  baseUrl: "/kabdoc",
+  baseUrl: "/my-website/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "kabdoc", // Usually your GitHub org/user name.
-  projectName: "kabdoc", // Usually your repo name.
+  organizationName: "kabagouda", // Usually your GitHub org/user name.
+  projectName: "my-website", // Usually your repo name.
   deploymentBranch: "gh-pages", // Branch that GitHub pages will deploy from.
 
   // Even if you don't use internalization, you can use this field to set useful
