@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Kab Learning Doc",
-  tagline: "Mini Flutter Documentation",
+  title: "Kab  Doc",
+  tagline: "Mini Flutter ",
   url: "https://github.com",
   baseUrl: "/my-website/",
   onBrokenLinks: "throw",
